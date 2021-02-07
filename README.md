@@ -1,5 +1,5 @@
-# Human Development Index (HDI) and Income Inequality (GINI) in Chile
-In this repository you can find R scripts to analyze and make visualization plots about GINI coefficient and Human Development Index. The data is available (February 2021) from  [Worldbank.org](https://data.worldbank.org/indicator/SI.POV.GINI) and [Undp.org](http://hdr.undp.org/en/data).
+# Human Development Index (HDI) and Income Inequality (GINI) with emphasis in Chile.
+In this repository you can find R scripts to analyze and make visualization plots about GINI coefficient and Human Development Index. The data is available (Feb, 2021) from  [Worldbank.org](https://data.worldbank.org/indicator/SI.POV.GINI) and [Undp.org](http://hdr.undp.org/en/data).
 
 ## GINI coefficient Index in Chile, El Salvador and Spain (1987-2018).
 [Gini.R](https://github.com/luis-fernandezt/Human-Development-Index-HDI-and-Income-Inequality-GINI-in-Chile/blob/main/Gini.R)
@@ -22,7 +22,7 @@ In this repository you can find R scripts to analyze and make visualization plot
 
 ![gg4.gini.hdi.countries](https://raw.githubusercontent.com/luis-fernandezt/Human-Development-Index-HDI-and-Income-Inequality-GINI-in-Chile/main/gg4_Rnk_Gini_HDI.png)
 
-Source: own elaboration 
+Source: Own elaboration.
 
 #### **Versión de Rstudio:**
-"R version 3.6.3 (2020-02-29)"
+"R version 3.6.3 (2020-02-29)
