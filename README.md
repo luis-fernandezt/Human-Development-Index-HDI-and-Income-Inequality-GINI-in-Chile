@@ -22,7 +22,7 @@ In this repository you can find R scripts to analyze and make visualization plot
 
 ![gg4.gini.hdi.countries](https://raw.githubusercontent.com/luis-fernandezt/Human-Development-Index-HDI-and-Income-Inequality-GINI-in-Chile/main/gg4_Rnk_Gini_HDI.png)
 
-Source: Own elaboration.
+Source: own elaboration.
 
-#### **Versión de Rstudio:**
+#### **Rstudio version:**
 "R version 3.6.3 (2020-02-29)
